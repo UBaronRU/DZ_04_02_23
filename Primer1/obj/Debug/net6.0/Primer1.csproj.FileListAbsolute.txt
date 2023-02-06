@@ -1,0 +1,15 @@
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\bin\Debug\net6.0\Primer1.exe
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\bin\Debug\net6.0\Primer1.deps.json
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\bin\Debug\net6.0\Primer1.runtimeconfig.json
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\bin\Debug\net6.0\Primer1.dll
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\bin\Debug\net6.0\Primer1.pdb
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\obj\Debug\net6.0\Primer1.csproj.AssemblyReference.cache
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\obj\Debug\net6.0\Primer1.GeneratedMSBuildEditorConfig.editorconfig
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\obj\Debug\net6.0\Primer1.AssemblyInfoInputs.cache
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\obj\Debug\net6.0\Primer1.AssemblyInfo.cs
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\obj\Debug\net6.0\Primer1.csproj.CoreCompileInputs.cache
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\obj\Debug\net6.0\Primer1.dll
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\obj\Debug\net6.0\refint\Primer1.dll
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\obj\Debug\net6.0\Primer1.pdb
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\obj\Debug\net6.0\Primer1.genruntimeconfig.cache
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_04_02_23\Primer1\obj\Debug\net6.0\ref\Primer1.dll
